@@ -16,7 +16,7 @@ I am a Linux Enthuisiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I'm a free time video editor.
 - ⚡ In free time I love to configure linux and work with linux.
 - 🌱 I use Arch BTW :)
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sumit-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/20bce091-sumit](https://www.linkedin.com/in/sumit-dhiman-20bce091))
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sumit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-dhiman-20bce091)
 
 ---
 
